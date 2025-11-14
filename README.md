@@ -1,0 +1,1 @@
+Completed my grad research project titled “Solutions of Burger’s Equation by Finite Difference Method and Its Applications” (a microwave sensor for biomedical application). Implemented the explicit finite difference method in MATLAB to numerically solve and visualize Burgers’ equation, comparing results with analytical travelling-wave solutions. 
